@@ -12,6 +12,9 @@ Detects fraudulent job postings using machine learning and visualizes insights v
 - **Metrics:** F1-Score (important due to data imbalance)
 - **Explainability:** SHAP values to interpret predictions
 
+### API 
+- We have created a API that returns JSON format output of Title, Prediction, Fraud Probaility.
+
 ### 🛠️ Tools & Libraries
 - **Python**
 - **Pandas, NumPy, Scikit-learn**
@@ -40,18 +43,20 @@ Detects fraudulent job postings using machine learning and visualizes insights v
   
 
 ## 📁 Project Structure
-fraud_detection_job/
-│
-├── app.py # Streamlit dashboard
-├── model/
-│ ├── train_model.py # Model training script
-│ └── fraud_detector_pipeline.pkl # Saved model
-├── requirements.txt
-├── README.md
-└── data/
-├── train.csv
-└── test.csv
+fraud_detection_job/<br>
+│<br>
+├── app.py # Streamlit dashboard<br>
+├── model/<br>
+│ ├── train_model.py # Model training script<br>
+│ └── fraud_detector_pipeline.pkl # Saved model<br>
+├── requirements.txt<br>
+├── README.md<br>
+└── data/<br>
+├── train.csv<br>
+└── test.csv<br>
 
 **LINKS**
 - **DEPLOYED LINK** - https://frauddetectionjobgit-3wnxugzqwsta8oqcpt7shd.streamlit.app/
+- **VIDEO** - https://drive.google.com/file/d/14oX6PmoS95omNCKWJ7PzzvRRu7xCEMHB/view?usp=sharing
+- 
 
