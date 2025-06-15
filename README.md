@@ -4,6 +4,15 @@ Detects fraudulent job postings using machine learning and visualizes insights v
 
 ---
 
+## 📌 Project Overview
+
+Online job platforms are increasingly exploited by scammers to post fake job listings. These listings can waste time, mislead job seekers, and even compromise personal information.
+
+This project aims to build an **intelligent machine learning system** to detect fraudulent job postings based on their textual and categorical content. It includes:
+- A binary classification model (`genuine` vs `fraudulent`)
+- A real-time interactive dashboard built with **Streamlit**
+- Support for uploading CSV job data and visualizing fraud insights
+
 ## ⚙️ Key Features & Technologies Used
 
 ### 🧠 Machine Learning
