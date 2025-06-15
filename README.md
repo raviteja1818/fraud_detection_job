@@ -67,5 +67,4 @@ fraud_detection_job/<br>
 **LINKS**
 - **DEPLOYED LINK** - https://frauddetectionjobgit-3wnxugzqwsta8oqcpt7shd.streamlit.app/
 - **VIDEO** - https://drive.google.com/file/d/14oX6PmoS95omNCKWJ7PzzvRRu7xCEMHB/view?usp=sharing
-- **Team mate Intro** - https://drive.google.com/file/d/1ftg7QPtd4i3-Ruz1qRSAHLV5wsvtYxPM/view?usp=drivesdk
 
